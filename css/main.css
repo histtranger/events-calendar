@@ -1,0 +1,54 @@
+html {
+  font-family: Merriweather, serif;
+}
+
+table, td, th {
+  border: 1.5px solid #ccc;
+  border-bottom: none;
+}
+
+.white {
+  color: white;
+  border-right: none;
+  border-left: none;
+}
+
+.white2 {
+  border-top: none;
+  border-left: none;
+  color: white;
+}
+
+.white3 {
+  border-right: none;
+}
+
+.white4 {
+  color: white;
+  border-top: none;
+}
+
+.dark {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  border-radius: 20px;
+  color: #333;
+}
+
+.moss {
+  border: 1px solid #51603f;
+  color: #6b7e54;
+  background-color: #d1e0bf;
+}
+
+.bleu {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+}
+
+.magma {
+  background-color: #f2bcbc;
+  color: #b92828;
+  border: 1px solid #991919;
+}
